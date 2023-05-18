@@ -1,0 +1,12 @@
+.navbar-nav > li{
+    padding-left:25px;
+    padding-right:25px;
+  }
+
+body {
+    background-color: #000000; /* Used if the image is unavailable */
+  }
+
+.card{
+    border: none;
+}
