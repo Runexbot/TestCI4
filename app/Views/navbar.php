@@ -53,7 +53,7 @@
                     </ul>
                 </li>
                 <li class="nav-item active"><a href="#" class="nav-link text-white">Features</a></li>
-                <li class="nav-item"><a href="/support" class="nav-link text-white">Support</a></li>
+                <li class="nav-item"><a href="<?= base_url('/support'); ?>" class="nav-link text-white">Support</a></li>
                 <li class="nav-item"><a href="#" class="nav-link text-white">Contact Us</a></li>
                 <button type="button" class="btn btn-primary text-white" style="width: 100px; height: 45px; margin-left: 250px;">Sign In</button>
             </ul>
